@@ -1,0 +1,31 @@
+Black          #000000
+ 
+Blue           #0000AA 
+
+Green          #00AA00 
+
+Cyan           #00AAAA 
+
+Red            #AA0000 
+
+Magenta        #AA00AA 
+
+Brown          #AA5500 
+
+Light Gray     #AAAAAA 
+
+Dark Gray      #555555 
+
+Light Blue     #5555FF 
+
+Light Green    #55FF55 
+
+Light Cyan     #55FFFF 
+
+Light Red      #FF5555 
+
+Light Magenta  #FF55FF 
+
+Yellow         #FFFF55 
+
+White          #FFFFFF
