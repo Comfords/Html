@@ -2,7 +2,7 @@ if (top.location != location) {
   top.location.href = location.href;
 }
 function reopen() {
-window.open("")
+window.open("https://sites.google.com/nacswildcats.org/idiot/popup")
     "blankmenubar=no,status=no,toolbar=noresizable=no,width=350,height=370,titlebar=no,alwaysRaised=yes"
   );
 }
@@ -68,4 +68,5 @@ function playBall() {
     setTimeout(playBall, 1);
   }
 }
+
 
