@@ -1,4 +1,4 @@
-System.register(["./application.bc23d.js"], function (_export, _context) {
+System.register(["https://cdn.jsdelivr.net/gh/Gzh0821/pvzge_web@master/docs/application.bc23d.js"], function (_export, _context) {
   "use strict";
 
   var Application, canvas, $p, bcr, application;
